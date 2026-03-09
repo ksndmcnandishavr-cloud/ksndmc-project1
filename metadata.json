@@ -1,0 +1,5 @@
+{
+  "name": "KSNDMC Attendance Monitoring System",
+  "description": "A comprehensive attendance and leave management system for Karnataka State Natural Disaster Monitoring Centre with role-based access for Admins and Employees.",
+  "requestFramePermissions": []
+}
